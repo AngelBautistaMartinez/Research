@@ -4,14 +4,14 @@ Compile: gcc -c helper.c -o helper.o g++ -c replace.cpp -o replace.o g++ replace
 Auto Generate can auto compile the file too if needed.<br><br>
 
 How to generate dropper:<br><br>
-1.Enter of the name you want your dropper to be called (no need to add .cpp)<br>
-2.Enter the IP's you want to be embedded into the dropper.<br>
+1.Enter of the name you want your dropper to be called (no need to add .cpp)<br><br>
+2.Enter the IP's you want to be embedded into the dropper.<br><br>
   The First IP is just for strings the second IP is the real Server and the last one is for disassembling
 <br>
 <img width="1165" height="393" alt="Screenshot 2025-10-23 170948" src="https://github.com/user-attachments/assets/38b21f69-4def-4c20-820f-edf0f9452495" />
 <br>
 <br>
-3.It will ask if you want to auto compile the file (with g++/gcc) you can pick yes or no<br>
+3.It will ask if you want to auto compile the file (with g++/gcc) you can pick yes or no<br><br>
 4.Then you should get your dropper.exe file ready to go.
 <br>
 <br>
