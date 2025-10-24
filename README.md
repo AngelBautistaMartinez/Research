@@ -6,7 +6,8 @@ Auto Generate can auto compile the file too if needed.<br><br>
 How to generate dropper:<br><br>
 1.Enter of the name you want your dropper to be called (no need to add .cpp)<br><br>
 2.Enter the IP's you want to be embedded into the dropper.<br><br>
-  The First IP is just for strings the second IP is the real Server and the last one is for disassembling
+  The First IP is just for strings the second IP is the real Server and the last one is for disassembling<br>
+  Then your dropper.cpp file should be ready to go<br><br>
 <br>
 <img width="1165" height="393" alt="Screenshot 2025-10-23 170948" src="https://github.com/user-attachments/assets/38b21f69-4def-4c20-820f-edf0f9452495" />
 <br>
