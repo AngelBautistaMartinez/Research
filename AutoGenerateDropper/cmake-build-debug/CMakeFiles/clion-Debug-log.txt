@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2025.2.2\bin\cmake\win\aarch64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.2.2/bin/ninja/win/aarch64/ninja.exe" -G Ninja "-DPython_EXECUTABLE=C:/Users/Angel/Desktop/projects/Matryoshka Project/.venv/Scripts/python.exe" "-DPython3_EXECUTABLE=C:/Users/Angel/Desktop/projects/Matryoshka Project/.venv/Scripts/python.exe" -S "C:\Users\Angel\Desktop\projects\Matryoshka Project" -B "C:\Users\Angel\Desktop\projects\Matryoshka Project\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Angel/Desktop/projects/Matryoshka Project/cmake-build-debug
